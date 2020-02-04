@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+h3 {
+    display: inline;
+    margin: 1%;
+    padding: 1%;
+    border: 1px solid blue;
+}
